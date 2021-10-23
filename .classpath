@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="java"/>
+	<classpathentry kind="src" path="debug"/>
+	<classpathentry kind="src" path="res"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Client"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/LiteLoader"/>
+	<classpathentry kind="lib" path="/Client/jars/libraries/com/mojang/authlib/1.5.21/authlib-1.5.21.jar"/>
+	<classpathentry kind="lib" path="/Client/jars/libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar"/>
+	<classpathentry kind="lib" path="/Client/jars/libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar"/>
+	<classpathentry kind="lib" path="/Client/jars/libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.1/lwjgl_util-2.9.1.jar"/>
+	<classpathentry kind="lib" path="/Client/jars/libraries/org/lwjgl/lwjgl/lwjgl/2.9.1/lwjgl-2.9.1.jar"/>
+	<classpathentry kind="lib" path="/Client/jars/libraries/org/lwjgl/lwjgl/lwjgl-platform/2.9.1/lwjgl-platform-2.9.1-natives-windows.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

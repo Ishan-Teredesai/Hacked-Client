@@ -1,0 +1,11 @@
+{
+    "name" : "LiteAPI",
+    "version": "1.7.10_04",
+    "mcversion" : "1.7.10",
+    "author": "Mumfrey",
+    "description": "API used for LiteMods!",
+    "classTransformerClasses" : [
+        "net.spookysquad.spookster.injection.Transformer"
+    ]
+
+}
